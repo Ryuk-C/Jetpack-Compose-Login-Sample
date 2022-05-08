@@ -1,5 +1,6 @@
 # Login Sample
 
+-I created this repository for user login/registration using Jetpack Compose.
 
 Libraries Used
 --------------
@@ -9,7 +10,6 @@ Libraries Used
   * [ViewModel][13] - Easily schedule asynchronous tasks for optimal execution.
   * [Coroutines][34] - A coroutine is a concurrency design pattern that you can use on Android to simplify code that executes asynchronously.
   * [Flow][14] - Works very well with coroutines, provides us with cold streams which can be transformed using well known reactive operators.
-  * [Room][15] - Access your app's SQLite database with in-app objects and compile-time checks.
 * [UI][20] - Details on why and how to use UI Components in your apps - together or separate
   * [Jetpack Compose][21] - A basic unit of composable UI.
 * Third party and miscellaneous libraries
@@ -18,15 +18,15 @@ Libraries Used
   * [Hilt][32] for [dependency injection][33]
   * [Lottie][35] for Animations.
 
+App Video
+--------------
+https://user-images.githubusercontent.com/78587220/167302959-fbfb7665-0831-42f1-98c3-9a020e4cf2e7.mp4
+
 Architecture
 --------------
 The app uses [MVVM architecture][10] to have a unidirectional flow of data, separation of concern, testability, and a lot more.
 
 ![Architecture](https://developer.android.com/topic/libraries/architecture/images/final-architecture.png)
-
-App Video
---------------
-https://user-images.githubusercontent.com/78587220/167302959-fbfb7665-0831-42f1-98c3-9a020e4cf2e7.mp4
 
 LICENSE
 --------------
