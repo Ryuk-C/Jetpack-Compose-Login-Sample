@@ -135,7 +135,7 @@ fun SettingsPage(
                                             modifier = Modifier.weight(90f)
                                         ) {
                                             Image(
-                                                painterResource(id = R.drawable.userprofilepic),
+                                                painterResource(id = R.drawable.ic_academia),
                                                 contentDescription = "User Profile Picture",
                                                 contentScale = ContentScale.Crop,
                                                 modifier = Modifier
