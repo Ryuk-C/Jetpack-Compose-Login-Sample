@@ -18,9 +18,6 @@ Libraries Used
   * [Hilt][32] for [dependency injection][33]
   * [Lottie][35] for Animations.
 
-App Video
---------------
-https://user-images.githubusercontent.com/78587220/167302959-fbfb7665-0831-42f1-98c3-9a020e4cf2e7.mp4
 
 Architecture
 --------------
