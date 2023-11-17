@@ -25,6 +25,11 @@ The app uses [MVVM architecture][10] to have a unidirectional flow of data, sepa
 
 ![Architecture](https://developer.android.com/topic/libraries/architecture/images/final-architecture.png)
 
+App Video
+--------------
+
+https://github.com/Ryuk-C/Jetpack-Compose-Login-Sample/assets/78587220/d3e4c67d-3af8-4e28-9936-067aa10588d6
+
 LICENSE
 --------------
 MIT License
