@@ -1,6 +1,6 @@
 # Login Sample
 
--I created this repository for user login/registration using Jetpack Compose.
+-A simple Jetpack Compose project showcasing a modern and elegant login screen UI for Android applications. This repository serves as a demonstration of how to implement a clean and user-friendly login interface using Jetpack Compose, Google's modern Android UI toolkit.
 
 Libraries Used
 --------------
@@ -12,7 +12,7 @@ Libraries Used
   * [Flow][14] - Works very well with coroutines, provides us with cold streams which can be transformed using well known reactive operators.
 * [UI][20] - Details on why and how to use UI Components in your apps - together or separate
   * [Jetpack Compose][21] - A basic unit of composable UI.
-* Third party and miscellaneous libraries
+* Third party libraries
   * [Retrofit][30] for turns your HTTP API into a Java interface
   * [Gson][31] for convert Java Objects into their JSON representation
   * [Hilt][32] for [dependency injection][33]
